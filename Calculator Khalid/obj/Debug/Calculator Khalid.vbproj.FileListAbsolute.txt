@@ -1,0 +1,10 @@
+D:\Calculator Khalid\Calculator Khalid\bin\Debug\Calculator Khalid.exe
+D:\Calculator Khalid\Calculator Khalid\bin\Debug\Calculator Khalid.pdb
+D:\Calculator Khalid\Calculator Khalid\bin\Debug\Calculator Khalid.xml
+D:\Calculator Khalid\Calculator Khalid\obj\Debug\ResolveAssemblyReference.cache
+D:\Calculator Khalid\Calculator Khalid\obj\Debug\Calculator_Khalid.Form1.resources
+D:\Calculator Khalid\Calculator Khalid\obj\Debug\Calculator_Khalid.Resources.resources
+D:\Calculator Khalid\Calculator Khalid\obj\Debug\Calculator Khalid.vbproj.GenerateResource.Cache
+D:\Calculator Khalid\Calculator Khalid\obj\Debug\Calculator Khalid.exe
+D:\Calculator Khalid\Calculator Khalid\obj\Debug\Calculator Khalid.xml
+D:\Calculator Khalid\Calculator Khalid\obj\Debug\Calculator Khalid.pdb
